@@ -3,7 +3,7 @@ env/
 venv/
 *.env
 *.pyenv
-
+.env
 # Файлы для кеширования
 __pycache__/
 *.py[cod]
